@@ -8,6 +8,7 @@ I enjoy experimenting with embedded systems and electronics, particularly projec
 
 - **[ArduinOS](https://github.com/Voidfaller/ArduinOS)** — An experimental operating system for Arduino hardware, featuring a simple bytecode interpreter.
 - **[midiGlow](https://github.com/Voidfaller/midiGlow)** — A project exploring MIDI-controlled LED hardware.
+- **[DCBS](https://github.com/Voidfaller/DCBS)** — An exploratory parkinson assitance device. Implementing RTOS and Embedded systems 
 - **[Morimodum](https://morimodum.com)** — A website I contributed to.
 
 ### Interests
